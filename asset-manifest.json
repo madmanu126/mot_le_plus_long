@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mot_le_plus_long/static/css/main.1dd8038b.css",
+    "main.js": "/mot_le_plus_long/static/js/main.e7cbd04a.js",
+    "static/js/453.981e98eb.chunk.js": "/mot_le_plus_long/static/js/453.981e98eb.chunk.js",
+    "static/media/logo.svg": "/mot_le_plus_long/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mot_le_plus_long/index.html",
+    "main.1dd8038b.css.map": "/mot_le_plus_long/static/css/main.1dd8038b.css.map",
+    "main.e7cbd04a.js.map": "/mot_le_plus_long/static/js/main.e7cbd04a.js.map",
+    "453.981e98eb.chunk.js.map": "/mot_le_plus_long/static/js/453.981e98eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dd8038b.css",
+    "static/js/main.e7cbd04a.js"
+  ]
+}
