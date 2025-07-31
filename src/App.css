@@ -14,19 +14,33 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #dabb77;
+
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(20px + 2vmin);
   color: white;
+}
+
+h2{font-family: georgia; 
+  color: #b83;
+  font-style:italic;
+}
+.lst_mot{margin: 4px}
+.lst_mot label{
+    padding: 4px;
+    margin: 4px;
+    background:#61dafb;
 }
 
 .App-link {
   color: #61dafb;
 }
+
+button, input[type=button], select{background-color: #b83; color: white;}
+.error{color: 'red'}
 
 @keyframes App-logo-spin {
   from {
@@ -36,3 +50,7 @@
     transform: rotate(360deg);
   }
 }
+.eselect{margin: 4px}
+input{font-size: x-large}
+label, select{margin:3px}
+
